@@ -1,6 +1,6 @@
 ### Hello there
 
-![cat-pixel-art](https://user-images.githubusercontent.com/25478207/177013725-ed7189f9-0bd5-40cb-9f55-11128d41f0b5.gif)
+Loading...
 
 
 <!--
